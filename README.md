@@ -10,7 +10,7 @@ This project simulates traffic light controller on FPGA board.
 
 ## Output
 
-![Output image](/images/Output_traffic_light_controller.jpg)
+![Output image](/images/Output_traffic_light_controller.JPG)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
